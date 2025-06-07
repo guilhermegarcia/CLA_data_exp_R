@@ -14,16 +14,13 @@
   - [ ] `filter()` et `select()`
 
 - [ ] **Résumer + explorer (20 min)**
-  - [ ] `group_by()` + `summarize()`
-  - [ ] `arrange()`
-  - [ ] `mutate()` + `if_else()`
+  - [ ] `.by` + `summarize()`
+  - [ ] `mutate()`
   - [ ] Fréquence ou moyenne/groupe
 
 - [ ] **Visualiser (30–35 min)**
-  - [ ] `ggplot()` + `geom_point()`
-  - [ ] `geom_col()`, `geom_boxplot()`
-  - [ ] `geom_smooth()`
+  - [ ] `ggplot()` + `geom_boxplot()`
+  - [ ] `stat_summary()`
   - [ ] Étiquettes + `theme_*()`
-  - [ ] `facet_wrap()`
 
   - [ ] **Questions finales?**
